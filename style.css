@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0
+    ;
+}
+.cabeçalho {
+
+    height: 50px;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right:20px ;
+    padding-left: 20px;
+
+}
+.cabeçalho a{
+    color: white;
+    text-decoration: none;
+}
+    .container{
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        margin-top: 200px;
+        margin-bottom: 200px;
+    }
+    .imagem{
+        height: 500px;
+        width: 500px;
+    }
+
+    p {
+        width: 400px;
+    }
+    .imagem2{
+        height: 330px;
+        width: 500px;
+        margin-top: 100px
+    }
+        .rodape{
+            height: 50px;
+            background-color: red;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-right:20px ;
+            padding-left: 20px;   
+        }
+         .rodape p{
+            color: white;
+            text-decoration: none;
+         }
+         .imagem3{
+            height: 517px;
+            width: 380px;
+         margin-top: 75px;
+         padding-left: 100px;
+         }
+         .imagem4{
+            height: 517px;
+            width: 380px;
+         margin-top: 75px;
+         padding-right: 100px;
+         }
+
+         .divImagem3 p{
+            padding-left: 100px;
+         }
+         
+         .marvel{
+            margin-top: 75px;
+            height: 500px;
+            width: 70%;
+         }
+            
+         
+
+         
